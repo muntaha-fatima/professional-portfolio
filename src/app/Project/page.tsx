@@ -19,7 +19,7 @@ export default function Project() {
             <h3 className="font-bold text-lg mt-2"></h3>
             <p className="text-black font-bold">A simple, functional calculator built with HTML, CSS, and JavaScript This project showcases my ability to build basic applications using HTML structureCSS styling, and JavaScript for interactive 
               functionality. Users can perform basic arithmetic operations like addition, subtraction, multiplication, and division 
-              in a user-friendly interface <a className="underline text-blue-400" href="https://calculator-muntaha-fatimas-projects.vercel.app/"><i className="fas fa-link text-3xl"></i></a> </p>
+              in a user-friendly interface. <a className="underline text-blue-400" href="https://calculator-muntaha-fatimas-projects.vercel.app/"><i className="fas fa-link text-3xl"></i></a> </p>
             <ul>
             <li></li>
           </ul>
@@ -39,7 +39,7 @@ export default function Project() {
             <h3 className="font-bold text-lg mt-2"></h3>
             <p className="text-black font-bold"> My personal portfolio website created with HTML and CSS, designed to showcase my projects,
                skills, and journey in web development. This project focuses on clean design, responsive layout, and an engaging user
-                experience, presenting a well-organized view of my work and experience<a className="underline text-blue-400" href="https://create-portfolio-eosin.vercel.app/"><i className="fas fa-link text-3xl"></i></a>  </p>
+                experience, presenting a well-organized view of my work and experience.<a className="underline text-blue-400" href="https://create-portfolio-eosin.vercel.app/"><i className="fas fa-link text-3xl"></i></a>  </p>
           
           </div>
          
@@ -53,7 +53,7 @@ export default function Project() {
               className="shadow-xl rounded transition-transform duration-300 hover:scale-105 hover:shadow-l"
             />
             <h3 className="font-bold text-lg mt-2"></h3>
-            <p className="text-black font-bold">"A static resume created with HTML and CSS, designed to present professional 
+            <p className="text-black font-bold">A static resume created with HTML and CSS, designed to present professional 
               information in a clear, structured format. This page includes sections for personal information, work experience, 
               education, skills, and contact details. The single-page layout is ideal for showcasing a resume online, offering a 
               straightforward and visually appealing way to display my qualifications.

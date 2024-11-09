@@ -8,7 +8,7 @@ export default function About() {
           <p className="text-2xl md:text-md  font-light">I&apos;m Seerat Fatima a web developer with a passion for both technology and 
             Islamic studies. Alongside my expertise in web development using HTML, CSS, JavaScript, and Next.js, 
             I have completed courses in Seerat and Alima studies, which deepened my understanding of the life and 
-            Islamic teachings. I enjoy bringing creativity and purpose to my projects, striving to combine my skills in technology with the values and knowledge I&apos;ve gained from my studies. Through my work, I hope to contribute positively to both the tech world and the broader community. Whether I&apos;m developing user-friendly websites or learning new tech skills, I am always guided by a sense of purpose and a desire to make meaningful contributions."
+            Islamic teachings. I enjoy bringing creativity and purpose to my projects, striving to combine my skills in technology with the values and knowledge I&apos;ve gained from my studies. Through my work, I hope to contribute positively to both the tech world and the broader community. Whether I&apos;m developing user-friendly websites or learning new tech skills, I am always guided by a sense of purpose and a desire to make meaningful contributions.
              </p>
          
       </div>
@@ -21,7 +21,7 @@ export default function About() {
       height={400}
       className="object-cover h-full w-full rounded-lg transition-transform duration-300 hover:scale-105 hover:shadow-xl"
 
-      />
+      /> 
   </div>
   <footer className="bg-[#461e53] p-4 w-screen fixed bottom-0 left-0">
   <link
