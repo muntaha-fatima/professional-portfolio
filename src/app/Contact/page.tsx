@@ -153,10 +153,10 @@ export default function Contact() {
             <p className="text-muted-foreground">© 2024 Seerat Fatima. All rights reserved.</p>
             <div className="flex items-center gap-4">
               <Button variant="ghost" size="sm" asChild>
-                <a href="/privacy">Privacy Policy</a>
+               Privacy Policy
               </Button>
               <Button variant="ghost" size="sm" asChild>
-                <a href="/terms">Terms of Service</a>
+              Terms of Service
               </Button>
             </div>
           </div>
