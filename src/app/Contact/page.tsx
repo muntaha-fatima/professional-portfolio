@@ -14,7 +14,7 @@ export default function Contact() {
             Get in Touch
           </h1>
           <p className="text-lg text-white max-w-2xl">
-            Have a question or want to work together? Feel free to reach out. I'll get back to you as soon as possible.
+            Have a question or want to work together? Feel free to reach out. I&apos;ll get back to you as soon as possible.
           </p>
         </div>
 
