@@ -7,8 +7,8 @@ import { Button } from "@/components/ui/button"
 import { Form, FormControl, FormField, FormItem, FormLabel, FormMessage } from "@/components/ui/form"
 import { Input } from "@/components/ui/input"
 import { Textarea } from "@/components/ui/textarea"
-import { toast } from "sonner"
 import { useCallback } from "react"
+import { toast } from "react-hot-toast";
 
 
 const formSchema = z.object({
